@@ -15,7 +15,7 @@ int main() {
     scanf("%lf", &userGPA); // %lf
 
     printf("Enter your grade: ");
-    scanf("%c", &userGrade);
+    scanf(" %c", &userGrade); // need to use a space before %c
 
     printf("Enter your name: ");
     scanf("%s", userName); // No need to use & in string
