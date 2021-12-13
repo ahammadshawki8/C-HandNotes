@@ -5,7 +5,7 @@ int main () {
     int index = 1;
     while (index <= 5) {
         printf("Sorry, I won't do that again :(((\n");
-        index++;
+        index++;  // difference between ++i and i++
     }
 
     do {

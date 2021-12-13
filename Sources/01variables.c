@@ -15,5 +15,12 @@ int main () {
     myAge ++;
     printf("Next week I will become %d years old!", myAge);
     
+    /*
+    short X
+    long
+    signed X
+    unsigned 
+    */
+   
     return 0;
 }

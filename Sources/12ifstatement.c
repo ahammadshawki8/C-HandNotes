@@ -11,6 +11,13 @@ int main() {
     printf("MAX: %d \n", findMax2(40, 40));
     printf("MAX: %d \n", findMax3(40, 45, 170));
     drinkCoffee("cold", "true");
+
+    // ternery operator
+    int first = 0;
+    int second = 1;
+    int magic = (first == second) ? 10 : 20;
+    printf("%d", magic);
+
     return 0;
 }
 

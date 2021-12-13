@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 
 int main() {
     printf("%f\n", 9.7);
@@ -7,6 +8,7 @@ int main() {
     printf("%f\n", 9.8 - 8.9);
     printf("%f\n", 9.8 * 8.9);
     printf("%f\n", 9.8 / 8.9);
+    printf("%d\n", 20 % 3);
 
     printf("%f\n", 9 + 8.9); // int-float = float
     printf("%d\n", 5 + 4); // int-int = int
