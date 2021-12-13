@@ -3,6 +3,7 @@
 
 int main() {
     printf("Hello World!\n");
+    puts("New Hello World!");
     printf("   /|\n");
     printf("  / |\n");
     printf(" /  |\n");

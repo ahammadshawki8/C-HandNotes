@@ -21,6 +21,22 @@ int main () {
     signed X
     unsigned 
     */
+
+
+    // another way of defining strings
+    char * test = "Hello";
+    puts(test);
+
+    // concate
+    char * line = "Hello" ", " "World!";
+    puts(line);
+
+    // sizeof
+    printf("%d \n", sizeof(line));
+
+    // casting
+    int new = 20;
+    printf("%f", (float)new);
    
     return 0;
 }
