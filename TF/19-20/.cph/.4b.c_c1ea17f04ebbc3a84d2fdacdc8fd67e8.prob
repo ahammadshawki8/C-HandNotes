@@ -1,0 +1,1 @@
+{"name":"Local: 4b","url":"c:\\Users\\DELL\\Desktop\\TF solver\\19-20\\4b.c","tests":[{"id":1739343001339,"input":"hello    my name is    shawki   \n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\Desktop\\TF solver\\19-20\\4b.c","group":"local","local":true}

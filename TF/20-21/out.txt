@@ -1,0 +1,3 @@
+Not Palindrome Odd
+Palindrome Odd
+Palindrome Even
